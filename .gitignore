@@ -1,0 +1,8 @@
+# Mac resource
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini

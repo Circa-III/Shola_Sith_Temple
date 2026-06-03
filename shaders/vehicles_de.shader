@@ -1,12 +1,13 @@
-
-
 //ATATS
 
 models/players/atat_de/head
 {
+    q3map_material SolidMetal
+    q3map_nolightmap
+
     {
         map models/players/atat_de/head
-        rgbGen lightingDiffuse
+        rgbGen identity
     }
     {
         map models/players/atat_de/head_glow
@@ -16,9 +17,12 @@ models/players/atat_de/head
 }
 models/players/atat_de/body
 {
+    q3map_material SolidMetal
+    q3map_nolightmap
+
     {
         map models/players/atat_de/body
-        rgbGen lightingDiffuse
+        rgbGen identity
     }
     {
         map models/players/atat_de/body_glow
@@ -26,11 +30,15 @@ models/players/atat_de/body
         glow
     }
 }
+
 models/players/atat_de2/head
 {
+    q3map_material SolidMetal
+    q3map_nolightmap
+
     {
         map models/players/atat_de2/head
-        rgbGen lightingDiffuse
+        rgbGen identity
     }
     {
         map models/players/atat_de2/head_glow
@@ -38,10 +46,18 @@ models/players/atat_de2/head
         glow
     }
 }
+models/players/atat_de2/body
+{
+    q3map_material SolidMetal
+    q3map_nolightmap
 
+    {
+        map models/players/atat_de2/body
+        rgbGen identity
+    }
+}
 
 //TIEFIGHTERS
-
 
 models/players/tie_de/tie_fighter_body
 {
@@ -80,7 +96,6 @@ models/players/tie_de/tie_fighter_wing
 
 //ATSTDE
 
-
 models/players/atst_de/atst_material
 {
     {
@@ -98,8 +113,6 @@ models/players/atst_de/atst_material
         glow
     }
 }
-
-
 
 //EBONHAWKPREFAB
 
