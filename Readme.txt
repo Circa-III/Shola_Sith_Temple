@@ -1,10 +1,9 @@
 TITLE: Shola Sith Temple
 AUTHOR: Darth Apocalypse
-Mail: Darthapoc@yahoo.com
-official page: http://de.jkhub.org/members/darthapocalypse
+official page: https://darkempireofthesith.com
 
 ---Credits---
-Special thanks to Darth Martyr for teaching me how to map and help me with the obsticles I 
+Special thanks to Darth Martyr for teaching me how to map and help me with the obstacles I 
 came across in the making of this map. Without him I would never have started mapping.
 He also fixed every bug I came across!
 
@@ -14,16 +13,24 @@ He also fixed every bug I came across!
 *Thanks to Vondurr for helping me with several sound bytes and effects.
 *Thanks to Acrobat for his shader contributions and map tips.
 
-Added in October 2022, - A-Mountain by Acrobat
-Z-Mountain by Acrobat (Nov. 2022)
-Sprint is a retextured version of Dash1 from RaceArena by Loda
-DE Vehicles by Circa! ATAT_DE reskinned from the ATAT Vehicle walker by jhc
-Vehicle Bantha by jhc
-Ebon Hawk Prefab by DarthStevenus
-shola lava skybox and wasteland skybox taken from Sith J Cull maps.
-TIE patrol script taken from Malevolence map
-Lamba Platform by Monsoontide
-Movement by Faded
+Changes in Jun 2026 by Circa:
+- Added new music tracks to the main map music:
+  - Thrawn theme (Epic Version) composed by Samuel Kim
+  - Valkorion theme (Epic Version) composed by Samuel Kim
+  - Maul Shadow Lord theme composed by Kevin Kiner
+- Temporarily set ATAT shaders to fullbright until further fixes can be done
+
+Added in October 2022: 
+- A-Mountain by Acrobat
+- Z-Mountain by Acrobat (Nov. 2022)
+- Sprint is a retextured version of Dash1 from RaceArena by Loda
+- DE Vehicles by Circa! ATAT_DE reskinned from the ATAT Vehicle walker by jhc
+- Vehicle Bantha by jhc
+- Ebon Hawk Prefab by DarthStevenus
+- shola lava skybox and wasteland skybox taken from Sith J Cull maps.
+- TIE patrol script taken from Malevolence map
+- Lamba Platform by Monsoontide
+- Movement by Faded
 
 --Extra--
 
@@ -34,11 +41,13 @@ and thanks to all -[DE]- for testing my map as I was working with it and giving 
 Took a break within two months of starting and got distracted in life, came back to finish in October 2022!
 
 --To Install--
-Place Shola Sith Temple.pk3 inside of your LucasArts/Star Wars Jedi Knight Jedi Academy/GameData/Base folder.
+Place Shola_Sith_Temple.pk3 inside of your LucasArts/Star Wars Jedi Knight Jedi Academy/GameData/Base folder.
+
+/map shola_sith_temple
 
 --To Uninstall--
 
-Remove Shola Sith Temple.pk3 from your Base Folder. 
+Remove Shola_Sith_Temple.pk3 from your Base Folder. 
 
 Possible bugs: Some textures might be missing for Jedi Knight players that use Steam. 
 
